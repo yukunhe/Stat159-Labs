@@ -57,10 +57,10 @@ test_that("missing values", {
   expect_length(missing_values(z),1)
   expect_length(missing_values(w),1)
   
-  expect_type(missing_values(x), 'double')
-  expect_type(missing_values(y), 'double')
-  expect_type(missing_values(z), 'double')
-  expect_type(missing_values(w), 'double')
+  expect_type(missing_values(x), 'integer')
+  expect_type(missing_values(y), 'integer')
+  expect_type(missing_values(z), 'integer')
+  expect_type(missing_values(w), 'integer')
 })
 
 
