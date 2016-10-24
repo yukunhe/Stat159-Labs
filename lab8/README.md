@@ -10,4 +10,8 @@ The output is a scatter plot between sales and the input option with a fitted re
 
 ### Structure
 The lab8 folder consists of the following files:
-Advertising.csv, app.R, and README.md
+Advertising.csv, app.R, and README.md.
+The Advertising.csv provides the data set we use in the ShinyDoc. The app.R contains code for the ShinyDoc to provide scatter plots.
+
+### Creative Commons
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
